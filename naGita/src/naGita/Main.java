@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Pierwsza objP = new Pierwsza();
+		trzecia klTrzy = new trzecia(3);
 		
 	}
 
